@@ -1,6 +1,6 @@
 module github.com/public-awesome/stargaze/v12
 
-go 1.20
+go 1.21
 
 require (
 	github.com/CosmWasm/wasmd v0.33.0
